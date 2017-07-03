@@ -1,0 +1,22 @@
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.exe
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.pdb
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csprojResolveAssemblyReference.cache
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.GUI.resources
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.Properties.Resources.resources
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csproj.GenerateResource.Cache
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.exe
+C:\Users\132173\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.pdb
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.exe
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.pdb
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.exe
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.pdb
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csprojResolveAssemblyReference.cache
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.GUI.resources
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.Properties.Resources.resources
+D:\Usuários\guilherme\Desktop\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csproj.GenerateResource.Cache
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.exe
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.pdb
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csprojResolveAssemblyReference.cache
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.GUI.resources
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.Properties.Resources.resources
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csproj.GenerateResource.Cache

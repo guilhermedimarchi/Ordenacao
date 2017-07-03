@@ -1,0 +1,17 @@
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.exe
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.pdb
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.GUI.resources
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.Properties.Resources.resources
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.exe
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.pdb
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.exe.config
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.exe
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\bin\Debug\Ordena.pdb
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csprojResolveAssemblyReference.cache
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.GUI.resources
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.Properties.Resources.resources
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.csproj.GenerateResource.Cache
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.exe
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ExOrdena2014\ExOrdena\Ordena\obj\Debug\Ordena.pdb
